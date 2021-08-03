@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vitorluizf
-- 👀 I’m interested in becoming a professional programmer.
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on initial and real projects
-- 📫 How to reach me  you can call me on my social networks or right here
+- 👋 Olá, sou @vitorluizf
+- 📖 Estudante de Analise e desenvolvimento de sistemas 
+- 👀 Estou interessado em me tornar um programador profissional.
+- 🌱 Atualmente, estou aprendendo Python, HTML, CSS e JavaScript
+- 💞️ Estou procurando colaborar em projetos iniciais e reais
+- 📫 Você pode me encontrar no Instagram : @vitor.luizf
 
 <!---
 vitorluizf/vitorluizf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
